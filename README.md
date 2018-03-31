@@ -1,2 +1,2 @@
 # gitskill
-Creating a new branch is quick AND simple[Merged].
+Git is a free software.
